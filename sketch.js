@@ -1,5 +1,7 @@
 function setup() {
   // Put things you want to run once in here. 
+  createCanvas(windowWidth, windowHeight);
+  background(100);
 }
 
 function draw() {
